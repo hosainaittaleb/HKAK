@@ -8,3 +8,4 @@ SQL
 swift
 ruby
 c++
+julia

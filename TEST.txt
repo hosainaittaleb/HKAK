@@ -5,3 +5,6 @@ java
 java script
 python
 SQL
+swift
+ruby
+c++
